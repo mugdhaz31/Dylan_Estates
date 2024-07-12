@@ -3,6 +3,8 @@
 ### An overview of the project is provided in README file present in: 
 # src folder
 
+### I was not able to upload all the files such as node modules folder due is huge size and hence i have only uploaded public and src folders 
+
 ## Screnshots of the output of the implemented project are :
 
 ![Screenshot (120)](https://github.com/user-attachments/assets/f6bf41db-97a2-4c59-98e9-dead6824c59a)
