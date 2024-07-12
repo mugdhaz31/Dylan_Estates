@@ -1,0 +1,29 @@
+.detailsform{
+    padding: 30px 50px;
+}
+.red1{
+    color: red;
+}
+
+.topic{
+    padding: 20px;
+    color: #122B49;
+    font-size: 20px;
+    font-weight: 500;
+}
+.propertydescription input{
+    width: 611px;
+    padding: 10px;
+    height: 100px;
+    top: 27px;
+    left: 20px;
+    position: relative;
+}
+.detailbox{
+    padding: 20px;
+}
+.property{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}

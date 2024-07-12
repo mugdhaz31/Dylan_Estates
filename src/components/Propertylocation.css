@@ -1,0 +1,23 @@
+.locationbox{
+    padding: 40px;
+}
+.red2{
+    color: red;
+}
+.topic1{
+    color: #122B49;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+}
+.inputaddress{
+    width: 662px;
+    padding: 10px;
+    height: 100px;
+    top: 27px;
+    left: 20px;
+    position: relative;
+}
+.map{
+    padding: 60px;
+}

@@ -1,0 +1,45 @@
+.savebox {
+    padding: 50px;
+    margin: 20px;
+}
+
+.line1 {
+    padding: 10px;
+    color: #122B49;
+    font-size: 30px;
+    font-weight: 500;
+}
+.line2 {
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: 450;
+}
+.line3{
+    padding: 30px 10px 0px 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: 450;
+}
+.line4{
+    padding: 60px 10px;
+    color: #122B49;
+    font-weight: 500;
+    font-family: auto;
+    font-size: 20px;
+}
+.btns{
+    padding: 20px 10px; 
+}
+.btns button{
+    padding: 15px;
+    margin: 20px 30px 20px 0;
+    border-radius: 10px;
+    border: none;
+    background: #122B49;
+    color: white;
+    cursor: pointer;
+}
+.btns button:hover{
+    background: #1b324e;
+}
