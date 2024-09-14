@@ -1,9 +1,6 @@
 # Dylan_Estates
 
-### An overview of the project is provided in README file present in: 
-# src folder
-
-### I was not able to upload all the files such as node modules folder due is huge size and hence i have only uploaded public and src folders 
+### An overview of the project is provided : 
 
 ## Screnshots of the output of the implemented project are :
 
